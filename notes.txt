@@ -1,1 +1,2 @@
 CIS 483 Homework 1 - Web Applications
+This project demonstrates basic HTML and Git.
